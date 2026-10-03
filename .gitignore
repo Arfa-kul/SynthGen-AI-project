@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/venv/
+.env
+
+# Storage files (keep directories via .gitkeep)
+storage/uploads/*.csv
+storage/generated/*.csv
+storage/generated/*.json
+storage/reports/*.txt
+storage/reports/*.json
+storage/synthgen.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+*.log

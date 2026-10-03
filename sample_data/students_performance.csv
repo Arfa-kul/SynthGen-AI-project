@@ -1,0 +1,51 @@
+student_id,gender,parental_education,test_prep_course,math_score,reading_score,writing_score,passed_exam
+STU_1001,female,bachelor's degree,none,72,72,74,yes
+STU_1002,female,some college,completed,69,90,88,yes
+STU_1003,female,master's degree,none,90,95,93,yes
+STU_1004,male,associate's degree,none,47,57,44,no
+STU_1005,male,some college,none,76,78,75,yes
+STU_1006,female,associate's degree,none,71,83,78,yes
+STU_1007,female,some college,completed,88,95,92,yes
+STU_1008,male,some college,none,40,43,39,no
+STU_1009,male,high school,completed,64,64,67,yes
+STU_1010,female,high school,none,38,60,50,no
+STU_1011,male,some college,none,58,54,52,no
+STU_1012,male,associate's degree,none,40,52,43,no
+STU_1013,female,high school,none,65,81,73,yes
+STU_1014,male,some college,completed,78,72,70,yes
+STU_1015,female,master's degree,none,50,53,58,no
+STU_1016,female,some high school,none,69,75,78,yes
+STU_1017,male,high school,none,88,89,86,yes
+STU_1018,female,some high school,none,18,32,28,no
+STU_1019,male,master's degree,completed,46,42,46,no
+STU_1020,female,associate's degree,none,54,58,61,no
+STU_1021,male,high school,none,66,69,63,yes
+STU_1022,female,some college,completed,65,75,70,yes
+STU_1023,male,some college,none,44,54,53,no
+STU_1024,female,some high school,none,69,73,73,yes
+STU_1025,male,bachelor's degree,completed,74,71,80,yes
+STU_1026,male,master's degree,none,73,74,72,yes
+STU_1027,male,some college,none,69,54,55,no
+STU_1028,female,bachelor's degree,none,67,69,75,yes
+STU_1029,male,high school,none,70,70,65,yes
+STU_1030,female,master's degree,none,62,70,75,yes
+STU_1031,female,some college,none,69,74,74,yes
+STU_1032,female,associate's degree,none,63,65,61,yes
+STU_1033,female,master's degree,none,56,72,65,yes
+STU_1034,male,some college,none,40,42,38,no
+STU_1035,male,some college,none,97,87,82,yes
+STU_1036,male,high school,completed,81,81,79,yes
+STU_1037,female,associate's degree,none,74,81,83,yes
+STU_1038,female,some high school,none,50,64,59,no
+STU_1039,female,associate's degree,completed,75,90,88,yes
+STU_1040,male,associate's degree,none,57,56,57,no
+STU_1041,male,some high school,none,55,60,54,no
+STU_1042,female,associate's degree,none,58,67,68,no
+STU_1043,female,associate's degree,none,53,58,65,no
+STU_1044,male,some college,completed,59,65,66,no
+STU_1045,female,associate's degree,none,50,56,54,no
+STU_1046,male,associate's degree,none,65,54,57,no
+STU_1047,female,some college,completed,55,65,62,no
+STU_1048,female,high school,none,66,71,76,yes
+STU_1049,female,associate's degree,completed,57,74,76,yes
+STU_1050,male,high school,completed,82,84,82,yes

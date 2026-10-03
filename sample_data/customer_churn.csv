@@ -1,0 +1,31 @@
+customer_id,gender,senior_citizen,partner,tenure_months,contract_type,monthly_charges,total_charges,churn
+CUST-001,Female,0,Yes,1,Month-to-month,29.85,29.85,No
+CUST-002,Male,0,No,34,One year,56.95,1889.5,No
+CUST-003,Male,0,No,2,Month-to-month,53.85,108.15,Yes
+CUST-004,Male,0,No,45,One year,42.3,1840.75,No
+CUST-005,Female,0,No,2,Month-to-month,70.7,151.65,Yes
+CUST-006,Female,0,No,8,Month-to-month,99.65,820.5,Yes
+CUST-007,Male,0,No,22,Month-to-month,89.1,1949.4,No
+CUST-008,Female,0,No,10,Month-to-month,29.75,301.9,No
+CUST-009,Female,0,Yes,28,Month-to-month,104.8,3046.05,Yes
+CUST-010,Male,0,No,62,One year,56.15,3487.95,No
+CUST-011,Male,1,Yes,13,Month-to-month,89.85,1169.8,No
+CUST-012,Male,0,No,16,Two year,18.95,326.8,No
+CUST-013,Male,0,Yes,58,One year,100.35,5681.1,Yes
+CUST-014,Male,0,No,49,Month-to-month,103.7,5036.3,Yes
+CUST-015,Male,0,No,25,Month-to-month,105.5,2686.05,No
+CUST-016,Female,0,Yes,69,Two year,113.25,7895.15,No
+CUST-017,Female,0,No,52,One year,20.65,1022.95,No
+CUST-018,Male,0,No,71,Two year,106.7,7382.25,No
+CUST-019,Female,0,Yes,10,Month-to-month,55.2,528.35,Yes
+CUST-020,Female,0,No,21,Month-to-month,90.05,1862.9,No
+CUST-021,Male,1,No,12,Month-to-month,39.65,491.45,Yes
+CUST-022,Male,0,Yes,12,One year,19.8,202.25,No
+CUST-023,Male,0,No,1,Month-to-month,20.15,20.15,Yes
+CUST-024,Female,0,Yes,72,Two year,59.9,4213.9,No
+CUST-025,Male,0,No,49,Month-to-month,59.6,2721.35,No
+CUST-026,Male,0,No,30,Month-to-month,55.3,1530.6,Yes
+CUST-027,Male,0,Yes,47,Month-to-month,99.35,4749.15,Yes
+CUST-028,Male,0,Yes,1,Month-to-month,30.2,30.2,Yes
+CUST-029,Male,0,Yes,72,Two year,90.25,6369.45,No
+CUST-030,Female,0,No,17,Month-to-month,64.7,1093.1,Yes
